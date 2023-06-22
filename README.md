@@ -41,4 +41,4 @@
 </td></tr></table>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imponomarev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imponomarev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
